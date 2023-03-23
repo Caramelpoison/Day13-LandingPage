@@ -140,14 +140,22 @@ background-color: #3882F6;
     margin-right: 25%;
 }
 
+.FourthP{
+    background-color: white;
+    padding-top: .5%;
+    padding-bottom: 4%
+}
+
 .Fourth {
     display: flex;
     background-color: #3882F6;
-    margin-left: 25%;
-    width: 50%;
     border: 5px solid #3882F6;
-    border-radius: 10px;
+    margin-left: 25%;
+    margin-top: 5%;
+    width: 50%;
+    border-radius: 7px;
     font-weight: bold;
+    
 }
 
 .Fourth ul{
@@ -175,4 +183,6 @@ background-color: #3882F6;
 .footer{
     text-align: center;
     color:white;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
 }
